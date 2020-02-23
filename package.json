@@ -1,0 +1,16 @@
+{
+  "name": "livepinch",
+  "version": "1.0.0",
+  "description": "LivePinch client for APIs",
+  "main": "livepinchClient.js",
+  "dependencies": {
+    "npm": "^6.13.7",
+    "request": "^2.88.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Vishal Deep",
+  "license": "ISC"
+}

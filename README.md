@@ -1,15 +1,15 @@
 # NodeJs library for APIs of livepinch.com
-## Refer https://docs.livepinch.com/api/ for more info
+### Refer https://docs.livepinch.com/api/ for more info
 
 ### Functions:
-#### new ( constructor )
-- Arguments: apiKey, apiVersion
-#### updateProfile
-- Arguments: profileKey, profileAttributes
-#### pushEvent
-- Arguments: profileKey, eventName, eventAttributes
+- **new ( constructor )**
+  - Arguments: apiKey, apiVersion
+- **updateProfile**
+  - Arguments: profileKey, profileAttributes
+- **pushEvent**
+  - Arguments: profileKey, eventName, eventAttributes
 
-#### Example
+#### Example:
 ```
 var livePinchClient = require('../livepinchClient');
 
